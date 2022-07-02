@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Ari
 
-<!--
-**nhatduy227/nhatduy227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I’m currently a SWE @ Coinbase
+- 🤖 I’m currently learning Web Dev and BlockChain
+- 📫 How to reach me: nomiephan1504@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am into mechanical keyboards. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+
+
+| <a href="https://github.com/nhatduy227/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nhatduy227&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ari's github stats" /></a> | <a href="https://github.com/AriNguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatduy227&hide=jupyter%20notebook&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
