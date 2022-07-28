@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ari
+### Hi there 👋, I'm Nom
 
 - 🖥️ I’m currently a SWE @ Coinbase
 - 🤖 I’m currently learning Web Dev and Machine Learning
